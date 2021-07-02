@@ -1,4 +1,4 @@
-.bd-placeholder-img {
+.bd-placeholder-img{ 
     font-size: 1.125rem;
     text-anchor: middle;
     -webkit-user-select: none;
@@ -6,25 +6,25 @@
     user-select: none;
   }
 
-  @media (min-width: 768px) {
-    .bd-placeholder-img-lg {
+  @media (min-width: 768px){ 
+    .bd-placeholder-img-lg{ 
       font-size: 3.5rem;
     }
     }
 /*********** Style the navbar *********/
-.header {
+.header{ 
     background-color: #f1f1f1;
     padding: 30px;
     text-align: center;
   }
   
-  #navbar {
+  #navbar{ 
     overflow: hidden;
     background-color: #333;
     z-index: 99999;
   }
   
-  #navbar a {
+  #navbar a{ 
     float: left;
     display: block;
     color: #f2f2f2;
@@ -34,27 +34,27 @@
     font-size: 17px;
   }
   
-  #navbar a:hover {
+  #navbar a:hover{
     background-color: #ddd;
     color: black;
   }
   
-  #navbar a.active {
+  #navbar a.active{
     background-color: #04AA6D;
     color: white;
   }
   
-  .content {
+  .content{
     padding: 16px;
   }
   
-  .sticky {
+  .sticky{
     position: fixed;
     top: 0;
     width: 100%;
   }
   
-  .sticky + .content {
+  .sticky + .content{
     padding-top: 60px;
   }
   /*********** End Style the navbar *********/
