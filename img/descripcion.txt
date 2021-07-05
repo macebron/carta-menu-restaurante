@@ -1,0 +1,30 @@
+tofu
+
+New York
+Hamburguesa de avena y tofu ahumado
+
+Chicago
+Hamburguesa vegetariana de tofu y calabacín con mayonesa de mostaza
+
+Miami
+Hamburguesa de tofu ahumado y nueces
+
+Orlando
+Hamburguesa de garbanzos y tofu
+
+---
+
+ternera
+
+Toledo
+hamburguesa de ternera con cebolla caramelizada y foie
+
+Tenerife
+Hamburguesa de ternera con aguacate , huevo, lechuga, tomate
+
+Malaga
+Hamburguesa de ternera con tomate, queso, tocino, salsa de la casa
+
+Sevilla
+Hamburguesa de ternera con aros de cebolla, bbq, queso, tocino
+
